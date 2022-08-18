@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @samantha6978
+- 👀 I’m interested in data science, market research, consumer behaviour, cryptocurrency and the blockchain
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on solving research problems using data
+- 📫 How to reach me @samanthasmithnz on instagram or @ctrl_alt_sam on twitter
